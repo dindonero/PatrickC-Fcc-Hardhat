@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lesson10/react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson10/react/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson15-nextjs-thegraph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson15-thegraph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson15-thegraph/nft-marketplace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson7" vcs="Git" />
+  </component>
+</project>
