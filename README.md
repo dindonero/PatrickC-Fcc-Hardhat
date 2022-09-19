@@ -8,7 +8,7 @@
 
 ### Decentralized NFT Marketplace
 
-[NFT Marketplace]https://62ed4070f3c82a7facad3f89--cheery-medovik-72f8ea.netlify.app/  - Almost fully decentralized NFT Marketplace.
+[NFT Marketplace](https://62ed4070f3c82a7facad3f89--cheery-medovik-72f8ea.netlify.app/)  - Almost fully decentralized NFT Marketplace.
 
 
 ### Smart contract Lottery - Winner takes it all
